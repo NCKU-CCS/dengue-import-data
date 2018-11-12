@@ -1,0 +1,10 @@
+venv/
+500_blocks.csv
+map
+.DS_Store
+__pycache__/
+*.geojson
+*.topojson
+*.csv
+ENV/
+my.sql
